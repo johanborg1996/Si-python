@@ -1,0 +1,11 @@
+Del 1. Rekursiv
+
+Gör en rekursiv funktion som tar 2 tal som inparametrar som argument i funktionen. 
+
+Funktionen ska addera varje tal som är mellan de 2 tal som är inparametrar jämnt delbart med 3 till en lista.
+
+Del 2. Iterativ eller rekursiv
+
+En ny funktion ska ta listan som inparameter och sätta alla tal i en ny lista i omvänd ordning där den gamla listan ska vara likadan.
+ 
+Reverselist funktion får inte användas. Index Slicing får heller inte användas.    
